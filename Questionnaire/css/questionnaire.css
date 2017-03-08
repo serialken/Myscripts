@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: #ffffff;
+    color : #ff00ff;
+    width : 600px;
+    margin-right:  auto;
+    margin-left:  auto;
+    font-family : verdana, arial, helvetica, sans-serif;
+    font-size: 12px;
+    font-style : normal;
+    font-variant : normal;
+    font-weight : normal;
+}
+
+.logo {
+    /*border: 0px;*/
+    width: 415px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+iframe{
+    width: 600px;
+    height: 800px;
+    border: none;
+    /*background-color: #ffffff;*/
+
+}
