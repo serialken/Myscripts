@@ -1,11 +1,1 @@
-script pour automatiser le deploiement de l'appli RATP
-
-- merge develop avec master
-- creer un tag de version
-
-
-
-- Recuperer la derniéere version du tag
-- cloner cette version dans un repertoire
--
-
+﻿l'ensemble des scripts mis en place un peru partout dans les differents environements professionnnels
