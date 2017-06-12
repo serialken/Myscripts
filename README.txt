@@ -1,1 +1,1 @@
-﻿l'ensemble des scripts mis en place un peru partout dans les differents environements professionnnels
+﻿l'ensemble des scripts mis en place un peu partout dans les differents environements professionnnels
