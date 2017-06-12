@@ -1,0 +1,24 @@
+
+
+
+
+C:/Workspace/Scripts/LogTransferFtp
+
+10.151.93.2
+MROAD
+M245road
+10.231.10.156
+dev-mroad
+xnVsAD
+
+./MROAD_RECETTE/TEST_SCRIPT/.
+./MROAD_RECETTE/TEST_SCRIPT/BKP
+./public_html/MRoad_Fichiers/Tmp/TEST_SCRIPT
+C:/Workspace/Scripts/FileTransferFtp
+/^[a-zA-Z0-9]+\.txt$/i
+
+
+ C:/Workspace/Scripts/FileTransferFtp
+C:/Workspace/Scripts/FileTransferFtp/BKP
+./MROAD_RECETTE/TEST_SCRIPT/.
+//            $regexDefault = 
