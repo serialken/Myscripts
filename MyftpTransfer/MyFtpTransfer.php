@@ -1100,9 +1100,9 @@ function getTabConfig($path, $error){
             $tmp = explode("=",$buffer);
             if (strlen(trim($tmp[0])) > 0 && isset($tmp[1])){
                 if(trim($tmp[0]) == "log"){
-                    $res[trim($tmp[0])] = (bool)trim($tmp[1]);
+                    $res[trim($tmp[0])] = trim($tmp[1]);
                 }elseif(trim($tmp[0]) == "verbose"){
-                    $res[trim($tmp[0])] = (bool)trim($tmp[1]);
+                    $res[trim($tmp[0])] = trim($tmp[1]);
                 }else{
                     $res[trim($tmp[0])] = trim($tmp[1]);
                 }
