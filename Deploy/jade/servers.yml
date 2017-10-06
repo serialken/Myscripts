@@ -1,0 +1,59 @@
+#dev:
+#    host: 10.150.156.111
+#    port: 22
+#    user: jadedev
+#    password: QEgPqn
+#    stage: developpement
+#    deploy_path: /home/jadedev/public_html
+#    environ: dev
+#    user_defaut: jadedev
+#    user_web: www-data
+#    permission_batch_php: 775
+#    permission_batch_sh: 775
+#    permission_batch_bkp: 777
+#
+dev:
+    host: 10.150.156.111
+    port: 22
+    user: jaderct
+    password: 0DQt6Q
+    stage: recette
+    deploy_path: /home/jaderct/public_html
+    environ: dev
+    user_defaut: jaderct
+    user_web: www-data
+    permission_batch_php: 775
+    permission_batch_sh: 775
+    permission_batch_bkp: 777
+    serveur_git: 10.150.12.12
+
+rec:
+    host: 10.231.52.114
+    port: 22
+    user: jade
+    password: Jade@123
+    stage: recette
+    deploy_path: /var/www/html
+    environ: rec
+    user_defaut: jade
+    user_web: www-data
+    permission_batch_php: 775
+    permission_batch_sh: 775
+    permission_batch_bkp: 777
+    serveur_git: 10.150.12.12
+
+prod:
+    host: 10.231.52.116
+    port: 22
+    user: lesechos-admin
+    password: Lese@2013#
+    stage: production
+    deploy_path: /var/www/html
+    environ: prod
+    user_defaut: lesechos-admin
+    user_web: www-data
+    permission_batch_php: 775
+    permission_batch_sh: 775
+    permission_batch_bkp: 777
+    serveur_git: 10.150.12.12
+
